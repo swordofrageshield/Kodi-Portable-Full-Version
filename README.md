@@ -269,4 +269,4 @@ This repository serves as the official landing page for Kodi Portable. The softw
 **Get the most recent version of Kodi Portable today!**
 
 ---
-**Last updated:** 2026-09-19 12:14:41 UTC
+**Last updated:** 2026-09-19 16:12:17 UTC
